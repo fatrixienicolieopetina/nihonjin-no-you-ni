@@ -11,6 +11,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+    image: /images/Pink Nails Mani-Pedi Logo-701d01cd.png
   - section_id: features
     type: section_grid
     col_number: three
